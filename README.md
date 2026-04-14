@@ -7,3 +7,6 @@ impacting rough surface is given. In folder "shearDrop" an example of
 2D sheared water droplet pancaked between two moving walls is provided.
 
 Detailed information can be found in each sub-folder.
+
+
+  
